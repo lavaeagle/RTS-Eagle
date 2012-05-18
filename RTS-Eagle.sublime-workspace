@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/Useful-PHP-Functions/ultimateLibrary.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/inc/functions.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Clipboard.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/js/scripts.js",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/email.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Email.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Chat.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/common.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/buttons.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/User.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/dashboard.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/app.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/contactProfile.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/custom.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Contact.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/contacts.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/manuals.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/clipboard.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Contact.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/ticketSystem.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/TicketSystem.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Clipboard.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Tasking.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/organizeApps.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/forms.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/index.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Tasking.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/tasking.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/App.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/UserTask.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Container.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/fonts.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/createApp.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Manual.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/inc/globalVars.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/App.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Post.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Activity.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/mergeFields.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/benchmark.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/lab.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/TicketSystem.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/addons/fontAwesome/css/font-awesome.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/support.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/settings.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/User.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Activity.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/operations.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/home.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/iframe.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/home/signIn.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/myApps.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/File.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/snippets.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Chat.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/style.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/mergeContacts.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/TaskCategory.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/addContact.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/home/styles.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/home/home.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/app/signIn.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/css/home/1140.css",
+		"/Users/tszemkus/Downloads/1140_CssGrid_2 (3)/index.html",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/dashboard.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/gradientSprite.php",
+		"/Users/tszemkus/Desktop/ZeroClipboard.swf",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/analyzeStock.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/organizeApps.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/operations.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/myApps.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/addons/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/ui.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Manual.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/contactProfile.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/tasking.php",
+		"/Users/tszemkus/Downloads/lessphp 2/lessc.inc.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/clipboard.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/snippets.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/addons/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/content.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/addons/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/dialog.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/addons/tinymce/jscripts/tiny_mce/themes/advanced/skins/thebigreason/dialog.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/settings.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/joinBeta.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/contacts.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/createApp.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/roles.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Employee.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/employeeInvite.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/addContact.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/phpInfo.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Tip.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Group.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/untitled",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/mergeFields.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/app.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/lib/addImage.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/methods/Image.method.php",
+		"/Users/tszemkus/Desktop/Quinn Ranch Story.txt",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/css/styles.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/index.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/inc/globalVars.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/css/jquery.lightbox-0.5.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/js/jquery.lightbox-0.5.min.js",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/untitled folder/index.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/lib/myEvents.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/addons/timepicker/jquery.ptTimeSelect.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/inspiration/js/script.js",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/css/styles.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/test.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/methods/Post.method.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/lib/dashboard.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/app.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/lib/signIn.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/css/1140.css",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/lib/signin.php",
+		"/Users/tszemkus/Downloads/1140_CssGrid_2 (2)/index.html",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Browser.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/AppTask.class.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/index.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/mobile/signin.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/index.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/lib/sign_in.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/lib/forum.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/lib/downloads.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/core/database/connect.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/core/functions/user.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/core/init.php",
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/includes/widgets/sign_in.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cloudLoad",
+			"chat",
+			"chatBox",
+			"contactSearchBar",
+			"searchContacts",
+			"search",
+			"?p=",
+			"newMessage",
+			"settings",
+			"New Message",
+			"addMessage",
+			"addmessage",
+			"mainCont",
+			"valueId",
+			"taskOverlay",
+			"getComments",
+			"comment",
+			"subnav",
+			"was",
+			"successfully",
+			"taskOverlay",
+			"tasking",
+			"All day",
+			"add a task",
+			"textarea",
+			"cloudPost",
+			"contactId",
+			"app",
+			"setTime",
+			"message",
+			"upperMessage",
+			"urlEncode",
+			"each",
+			"sort",
+			".close",
+			"close",
+			"each",
+			"deleteTask",
+			"confirmModal",
+			"setTask",
+			"createAppChecklist",
+			"add",
+			"case 'setTask",
+			"setTaskOrder",
+			"disable",
+			"disableSe",
+			".drop",
+			"\"",
+			"iconClipboard",
+			"setTaskOrder",
+			"\"",
+			"contact",
+			"search",
+			"import",
+			"recent",
+			"profile",
+			"confirm",
+			"addColumn",
+			"addColumnForm",
+			"column",
+			"addTask",
+			"move",
+			"add",
+			"confirmModal",
+			"contact",
+			"array",
+			"contact",
+			"setTimeout",
+			"set",
+			"setinterval",
+			"setInterval",
+			"search",
+			"manual",
+			"search",
+			"taskOverlay",
+			"addTask",
+			"assigned to",
+			"assigned",
+			"taskOverlay",
+			"script",
+			"search",
+			"http",
+			"https",
+			"http",
+			"closeOverlay",
+			"\"",
+			"upload",
+			"\"",
+			"http:",
+			"deletePost",
+			"addTask",
+			"getString",
+			"confirmModal",
+			"					$valueSql = mysql_query(\"SELECT value, valueId, fieldId FROM userContactValues WHERE contactId='$contactId' AND userEmployerId='$user->EmployerId' AND value!=''\") or die(mysql_error());\n\n\n							$valueRow = mysql_fetch_assoc($valueSql);\n\n							$custom[] = array(\n								'field' => $fieldRow['field'],\n								'fieldId' => $fieldRow['fieldId'],\n								'value' => $value,\n								'valueId' =>$valueRow['valueId']\n							);",
+			"icon",
+			"icons",
+			"addType",
+			"type",
+			"addState",
+			"deleteState",
+			"setStat",
+			"upperMessage",
+			"type",
+			"setType",
+			"upper",
+			"save",
+			"savemes",
+			"addType",
+			"\"; }",
+			"edit",
+			"delete",
+			"confirmModal",
+			"SESSION",
+			"merge",
+			"add",
+			"decr",
+			"decrypt(",
+			"decr",
+			"crypt",
+			"decrypt(",
+			"EditTask",
+			"tasking",
+			"json",
+			"saveM",
+			"message",
+			"editable",
+			"title",
+			"json"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			".icon-music:before              { content: \"\\f001\"; }\n.icon-music:before              { content: \"\\f001\"; }\n\\0000a0\"; }",
+			"",
+			"contact",
+			"display",
+			"img/",
+			"class='taskCategory",
+			"image",
+			"?m=Clipboard",
+			"AssignedTo",
+			"move16",
+			"'",
+			"note",
+			"notes",
+			"value",
+			"field",
+			"csv",
+			"comment",
+			"task"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fa",
+				"addons/fontAwesome/css/font-awesome.css"
+			],
+			[
+				"ev",
+				"lib/myEvents.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}
