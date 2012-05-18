@@ -7,6 +7,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -32,6 +56,7 @@
 	},
 	"file_history":
 	[
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/RTS-Eagle/scripts/scripts.js",
 		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/Useful-PHP-Functions/ultimateLibrary.php",
 		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/inc/functions.php",
 		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/classes/Clipboard.class.php",
@@ -158,8 +183,7 @@
 		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/lib/downloads.php",
 		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/core/database/connect.php",
 		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/core/functions/user.php",
-		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/core/init.php",
-		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/includes/widgets/sign_in.php"
+		"/Users/tszemkus/Dropbox/TM Techies/Cloud Dueling/CurrentCloudDueling/projects/phpa-login-register copy/core/init.php"
 	],
 	"find":
 	{
@@ -341,8 +365,89 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1136,
+								1136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1228,
+								1228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/scripts.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
