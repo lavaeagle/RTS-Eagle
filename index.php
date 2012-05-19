@@ -1,60 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<link href='css/styles.css' media="screen" rel="stylesheet" type="text/css" />
-</head>
+<?php
 
-<body onload='initialize();'>
+/*
+*
+*	START SESSION
+*
+*/
+if(session_id() == ''):
+	ob_start();
+	session_start();
+endif;
 
-<div class='wrapper'>
-	<div id='map'></div>
-</div>
+/*
+*
+*	REQUIRED FILES
+*
+*/
+require_once 'inc/functions.php';
+require_once 'inc/globalVars.php';
 
-<!-- jQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+if($domain!='localhost')
+	redirectToHTTPS();
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&language=en"></script>
-<script type="text/javascript">
-  var map;
-  var center = new google.maps.LatLng(29.245489,-29.481919);
+/*
+*
+*	DEFINE SQL
+*
+*/
+$connection = mysql_connect($sqlHost, $sqlUsername, $sqlPassword) or die("Error connecting to database server");
+mysql_select_db($sqlDatabase, $connection) or die("Error selecting database.");
 
-  function initialize() {
-  	// Create an array of styles.
-	  var styles = [
-	  {
-	    featureType: "administrative.country",
-	    elementType: "geometry",
-	    stylers: [
-	      { saturation: 37 },
-	      { visibility: "simplified" }
-	    ]
-	  },{
-	    featureType: "administrative.province",
-	    stylers: [
-	      { visibility: "off" }
-	    ]
-	  },{
-	  }
-	];
+/*
+*
+*	PAGE/METHOD VARIABLES
+*
+*/
+#remove the directory path we don't want 
+$request  = str_replace("/projects/RTS-Eagle/", "", $_SERVER['REQUEST_URI']); 
 
-    var myOptions = {
-      zoom: 3,
-      center: center,
-      mapTypeId: google.maps.MapTypeId.TERRAIN,
-      styles: styles
-    };
-    map = new google.maps.Map(document.getElementById('map'),
-        myOptions);
-  }
+#split the path by '/'  
+$params = explode("/", $request); 
 
-  google.maps.event.addDomListener(window, 'load', initialize);
-</script>
+if(count($params) > 0):
+	if(file_exists("class/{$params[0]}.class.php")):
+		echo 'class';
+	else:
+		$p = $params[0];
+		require_once('app.php');
+	endif;
+endif;
 
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-
-<script src='js/scripts.js'></script>
-</body>
-
-</html>
+?>

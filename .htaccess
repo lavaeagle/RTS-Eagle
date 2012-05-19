@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME}﻿ -d
+RewriteRule .* - [L]
+RewriteRule ^(.*)$ http://localhost/projects/RTS-Eagle/index.php
